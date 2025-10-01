@@ -1,4 +1,4 @@
-# 🤖 Project: [TBD Sci-Fi Roguelite Platformer] ⚡
+# Project: [TBD Sci-Fi Roguelite Platformer]
 
 ## Project Vision & Game Design Document (GDD)
 
